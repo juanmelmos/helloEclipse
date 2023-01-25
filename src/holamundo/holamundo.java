@@ -6,7 +6,7 @@ public class holamundo {
 		
 
 		System.out.println("Hola Mundo");
-		
+		System.out.println("Hola Mundo");
 		
 
 	}
